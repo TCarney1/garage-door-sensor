@@ -472,6 +472,7 @@ dependencies = [
  "embassy-executor",
  "embassy-nrf",
  "embassy-time",
+ "garage-door-core",
  "panic-halt",
 ]
 
